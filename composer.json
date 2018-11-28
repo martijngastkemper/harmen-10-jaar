@@ -1,0 +1,5 @@
+{
+    "require": {
+        "grrr-amsterdam/garp-functional": "^2.0"
+    }
+}
